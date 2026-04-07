@@ -1,3 +1,0 @@
-C:/Users/Gaiva/code/cfuck/build/CMakeFiles/cfuck.dir
-C:/Users/Gaiva/code/cfuck/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Gaiva/code/cfuck/build/CMakeFiles/ZERO_CHECK.dir
